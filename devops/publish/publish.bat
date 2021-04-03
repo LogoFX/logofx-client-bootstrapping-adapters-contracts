@@ -1,4 +1,4 @@
-SET package_name=LogoFX.Client.BBootstrapping.Adapters.Contracts
+SET package_name=LogoFX.Client.Bootstrapping.Adapters.Contracts
 SET package_version=2.2.0-rc2
 cd ../build
 call build.bat
