@@ -13,5 +13,5 @@
     <description>LogoFX Client Bootstrapping Adapters Contracts containing interface for the adapter to the Caliburn.Micro based bootstrappers.</description>
     <summary>LogoFX Client Bootstrapping Adapters Contracts containing interface for the adapter to the Caliburn.Micro based bootstrappers.</summary>
     <releaseNotes>Updated dependent packages</releaseNotes>
-  </metadata>  
+  </metadata>
 </package>
