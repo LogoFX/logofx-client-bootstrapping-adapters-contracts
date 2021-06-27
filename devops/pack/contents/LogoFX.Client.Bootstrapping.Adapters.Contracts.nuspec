@@ -2,16 +2,18 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>LogoFX.Client.Bootstrapping.Adapters.Contracts</id>
-    <version>2.2.0-rc3</version>
+    <version>2.2.0</version>
     <title>LogoFX.Client.Bootstrapping.Adapters.Contracts</title>
     <authors>Gennady Verdel</authors>
     <owners>Gennady Verdel</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <licenseUrl>https://github.com/LogoFX/LogoFX/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/LogoFX/LogoFX</projectUrl>
+    <licenseUrl>https://github.com/LogoFX/logofx-client-bootstrapping-adapters-contracts/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/LogoFX/logofx-client-bootstrapping-adapters-contracts</projectUrl>
     <iconUrl>https://github.com/LogoFX/logofx-assets/blob/master/icons/icon.png?raw=true</iconUrl>
     <description>LogoFX Client Bootstrapping Adapters Contracts containing interface for the adapter to the Caliburn.Micro based bootstrappers.</description>
     <summary>LogoFX Client Bootstrapping Adapters Contracts containing interface for the adapter to the Caliburn.Micro based bootstrappers.</summary>
     <releaseNotes>Updated dependent packages</releaseNotes>
+    <tags>framework logofx dotnet</tags>
+    <repository type="Open Source" url="https://github.com/LogoFX/logofx-client-bootstrapping-adapters-contracts" />
   </metadata>
 </package>
