@@ -8,3 +8,5 @@ Adapter of an IoC container to the Caliburn.Micro required IoC functionality
 <img src=https://img.shields.io/nuget/dt/LogoFX.Client.Bootstrapping.Adapters.Contracts>
 
 [Get package](https://www.nuget.org/packages/LogoFX.Bootstrapping.Adapters.Contracts/)
+
+This repository is archived. Its functionality has been moved to https://github.com/LogoFX/bootstrapping
